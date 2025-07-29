@@ -1,0 +1,6 @@
+# Vagrant
+.vagrant/
+*.box
+
+# Logs / temp
+*.log
